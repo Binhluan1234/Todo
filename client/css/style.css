@@ -1,0 +1,22 @@
+.header {
+  padding: 20px 6px;
+  margin: 1px 0px;
+  border-bottom: 0px solid grey;
+}
+
+.boxSearch {
+  margin: 0px;
+  padding: 0px;
+}
+
+.List {
+  padding: 0px 4px;
+  border: 1px solid grey;
+  border-radius: 6px;
+}
+
+.itemList {
+  margin: 0px;
+  padding: 10px;
+  border-bottom: 1px solid grey;
+}
